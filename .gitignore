@@ -3,3 +3,4 @@ node_modules
 
 # Compiled css
 css/style.css
+css/style.*.css
